@@ -1,0 +1,98 @@
+:root{
+    --couleur-primaire: #d29713 ;
+    --couleur-secondaire: #050620;
+    --couleur-tertiaire: #fff;
+    --couleurback:#1F1F1F;
+    --couleur-butt:#252157;
+    --blue-Econ:#394355;
+}
+.tall{
+    border: solid color red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #050620;
+   
+    
+}
+.list{
+    border: solid color red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right:2px;
+    color:#fff;
+    
+
+}
+.liste{
+    border: solid color red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right:2px;
+    margin-left: -90px;
+    color:#fff;
+
+}
+.listes{
+    border: solid color red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right:2px;
+    margin-left: -90px;
+    color:#fff;
+
+}
+.diatta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -150px;
+    justify-content: space-between;
+}
+.diattas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+    /* padding-right:2px;
+    margin-left: -90px; */
+}
+.prg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+}
+.mfd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+}
+.ty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+}
+.ml{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+}
+.cf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: -150px;
+    padding-left: 100px; */
+}
