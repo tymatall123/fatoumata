@@ -96,3 +96,17 @@
     /* margin-left: -150px;
     padding-left: 100px; */
 }
+footer{
+    background-image: url('image/footer2.PNG');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+
+
+}
+
+
+#D1{
+    display: flex;
+    justify-content: space-between;
+}
